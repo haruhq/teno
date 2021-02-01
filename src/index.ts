@@ -1,2 +1,4 @@
-export * from './log.js';
+export function hello() {
+  console.log('Sorry. Currently under construction.');
+}
 

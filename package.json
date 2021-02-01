@@ -1,6 +1,6 @@
 {
   "name": "teno",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "Best rich text editor written in TypeScript.",
   "keywords": [
     "editor",
@@ -21,7 +21,7 @@
   "module": "lib/esm/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tetritz/mul.git"
+    "url": "https://github.com/tetritz/teno.git"
   },
   "scripts": {
     "clean": "rimraf lib/*",
