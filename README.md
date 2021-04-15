@@ -8,4 +8,4 @@ I'm working hard to make a great library.\
 \
 DO NOT install this library yet!!!\
 \
-Made by Tetritz (Lucas Choi). (tetritz.com@gmail.com)
+Made by Lightica (Lucas Choi). (lightica0@gmail.com)

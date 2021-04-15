@@ -20,7 +20,7 @@
   "include": [
     "**/*.d.ts",
     "**/*.ts"
-  ],
+, "lib/index.js"  ],
   "exclude": [
     "node_modules",
     "lib",
